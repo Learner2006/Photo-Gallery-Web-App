@@ -4,7 +4,7 @@ A responsive and performant photo gallery web application built with **React**, 
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Live Data Fetching**: Retrieves 30 photos on load from the Picsum Photos API.
 - **Responsive Layout**: Designed with Tailwind CSS utility classes:
@@ -20,7 +20,7 @@ A responsive and performant photo gallery web application built with **React**, 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React 19** (Functional Components & Hooks)
 - **Vite** (Next-gen frontend tooling)
@@ -29,7 +29,7 @@ A responsive and performant photo gallery web application built with **React**, 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 photo-gallery/
@@ -52,7 +52,7 @@ photo-gallery/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
